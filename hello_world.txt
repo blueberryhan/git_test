@@ -1,0 +1,2 @@
+hello world
+if this is the odin project, then i am kratos, the god of war!
